@@ -1,4 +1,4 @@
-#NumPy & Pandas
+# NumPy & Pandas
 RECOMENDACIONES
 1- Manejar Python( Básico)
 2- Manejar mínimo de matemáticas.
